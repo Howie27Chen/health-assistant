@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"health-assistant/bodyfat"
+	"health-assistant/internal/bodyfat"
 )
 
 func main() {
